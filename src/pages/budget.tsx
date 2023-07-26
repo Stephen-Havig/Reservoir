@@ -5,7 +5,7 @@ const BudgetPage: React.FC = () => {
   return (
     <div>
       <h1>Welcome to the budget page</h1>
-      <Link href="/">
+        <Link href="/">
           Home Page
         </Link>
     </div>
